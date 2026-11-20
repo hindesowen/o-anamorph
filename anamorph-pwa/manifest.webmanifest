@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Anamorph — Cinema Field Monitor",
+  "short_name": "Anamorph",
+  "description": "Cinema field monitor with anamorphic desqueeze, overlays, and safe guides.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
